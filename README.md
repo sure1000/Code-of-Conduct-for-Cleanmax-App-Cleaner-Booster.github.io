@@ -1,4 +1,4 @@
-# Code-of-Conduct.github.io
+# Code-of-Conduct
 
 Code of Conduct
 
