@@ -1,4 +1,4 @@
-# Code-of-Conduct-for-Cleanmax-App-Cleaner-Booster.github.io
+# Code-of-Conduct.github.io
 
 Code of Conduct
 
