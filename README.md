@@ -1,6 +1,7 @@
 # Code-of-Conduct-for-Cleanmax-App-Cleaner-Booster.github.io
 
 Code of Conduct
+
 Effective Date: July 25, 2025
 
 As the creator and maintainer of this website and associated projects, I am committed to fostering a positive, respectful, and harassment-free environment for everyone who interacts with my work or with me directly. This Code of Conduct outlines my expectations for behaviour and my pledge to uphold these standards.
